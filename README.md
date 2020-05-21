@@ -217,7 +217,7 @@ Content should be concise, clear, and well organized
 
 ### Useful tools
 - [AXE browser extension](https://www.deque.com/axe/)
-- [A11y storybook add-on](https://www.deque.com/axe/)
-- [Chrome Lighthouse (accessibility report)](https://www.deque.com/axe/)
-- [HTML_CodeSniffer (browser bookmarklet)](https://www.deque.com/axe/)
-- [Color contrast checker](https://www.deque.com/axe/)
+- [A11y storybook add-on](https://github.com/storybookjs/storybook/tree/next/addons/a11y)
+- [Chrome Lighthouse (accessibility report)](https://developers.google.com/web/tools/lighthouse)
+- [HTML_CodeSniffer (browser bookmarklet)](https://squizlabs.github.io/HTML_CodeSniffer/)
+- [Color contrast checker](https://webaim.org/resources/contrastchecker/)
