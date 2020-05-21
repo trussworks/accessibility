@@ -8,7 +8,7 @@ Issues and their progress will be captured on the [Github project board](https:/
 
 ## Guild
 
-Discussion and support at #g-accessibility
+Discussion and support at [#g-accessibility](https://trussworks.slack.com/app_redirect?channel=g-accessibility)
 
 ## Guide
 
