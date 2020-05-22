@@ -216,8 +216,8 @@ Content should be concise, clear, and well organized
 
 
 ### Useful tools
-- [AXE browser extension](https://www.deque.com/axe/)
-- [A11y storybook add-on](https://github.com/storybookjs/storybook/tree/next/addons/a11y)
-- [Chrome Lighthouse (accessibility report)](https://developers.google.com/web/tools/lighthouse)
-- [HTML_CodeSniffer (browser bookmarklet)](https://squizlabs.github.io/HTML_CodeSniffer/)
-- [Color contrast checker](https://webaim.org/resources/contrastchecker/)
+- [AXE browser extension](https://www.deque.com/axe/) - in browser accessibility testing
+- [A11y storybook add-on](https://github.com/storybookjs/storybook/tree/next/addons/a11y) - React accessibility testing in Storybook
+- [Chrome Lighthouse (accessibility report)](https://developers.google.com/web/tools/lighthouse) - Accessibility audit in Chrome DevTools
+- [HTML_CodeSniffer (browser bookmarklet)](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarket
+- [Color contrast checker](https://webaim.org/resources/contrastchecker/) - Interactive online color contrast checker for foreground and background ratios
