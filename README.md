@@ -1,4 +1,4 @@
-# Accessibilty at Truss
+# Accessibility at Truss
 
 This is the primary repository of information and resources surrounding accessibility practices at Truss.
 
