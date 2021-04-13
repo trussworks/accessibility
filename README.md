@@ -221,3 +221,5 @@ Content should be concise, clear, and well organized
 - [Chrome Lighthouse (accessibility report)](https://developers.google.com/web/tools/lighthouse) - Accessibility audit in Chrome DevTools
 - [HTML_CodeSniffer (browser bookmarklet)](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarket
 - [Color contrast checker](https://webaim.org/resources/contrastchecker/) - Interactive online color contrast checker for foreground and background ratios
+- [How to allow full keyboard navigation in Mac OS browsers](https://www.a11yproject.com/posts/2017-12-29-macos-browser-keyboard-navigation/) - By default, Apple computers have an operating system (OS) level setting that limits the Tab key to "Text boxes and lists only". This guide shows how to change it.
+
