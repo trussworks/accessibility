@@ -225,9 +225,9 @@ Content should be concise, clear, and well organized
 
 ------
 
-### VoiceOver guide
+## VoiceOver guide
 
-## How-to use the rotor menu
+### How-to use the rotor menu
 - Turn voice over on cmd + F5
 - Open rotor menu ctrl + option + U (you’ll see a panel appear)
 - Use ⬅️ and ➡️ to cycle through the rotor menu
