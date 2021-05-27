@@ -223,3 +223,17 @@ Content should be concise, clear, and well organized
 - [Color contrast checker](https://webaim.org/resources/contrastchecker/) - Interactive online color contrast checker for foreground and background ratios
 - [How to allow full keyboard navigation in Mac OS browsers](https://www.a11yproject.com/posts/2017-12-29-macos-browser-keyboard-navigation/) - By default, Apple computers have an operating system (OS) level setting that limits the Tab key to "Text boxes and lists only". This guide shows how to change it.
 
+------
+
+### VoiceOver guide
+
+##How-to use the rotor menu
+- Turn voice over on cmd + F5
+- Open rotor menu ctrl + option + U (you’ll see a panel appear)
+- Use ⬅️ and ➡️ to cycle through the rotor menu
+- Use ⬆️ and ⬇️ to move down that rotor view
+- When you are done you can dismiss the rotor menu by hitting Esc
+- Turn voice over off cmd + F5
+
+[Video demo for the rotor menu](https://trussworks.slack.com/archives/C01BCRE1Q20/p1620842498214400)
+
