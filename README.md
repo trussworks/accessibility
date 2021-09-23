@@ -47,6 +47,7 @@ Every role in the project should be aware of the importance of accessibility and
 - [Designing for Accessibility and Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
 - [VOX accessibility guidelines](http://accessibility.voxmedia.com/)
 - [plainlanguage.gov](https://www.plainlanguage.gov/)
+- [Open Source Accessibility Resources](https://accessibility.civicactions.com/)
 
 ## Guidance based on role
 
