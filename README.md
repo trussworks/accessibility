@@ -53,28 +53,6 @@ Every role in the project should be aware of the importance of accessibility and
 ### Design/content
 The following sections outline aspects of accessibility to keep in mind during the research and design process.
 
-**Color and text**
-
-Don’t use color as the only visual means of conveying information
-
-- There should be another indicator (such as icons, text, or pattern) so that people who cannot easily distinguish colors will be able to understand the content.
-
-**Make sure the foreground and background color of all text, icons, and focus indicators meet the proper contrast ratio**
-
-- The contrast ratio between texts and background should be at least 4.5:1 according to the WCAG.
-- If your font size is at least 24px or 19px bold, the minimum decreases to 3:1.
-
-**Don’t use overly saturated or high contrast colors**
-
-- Oversaturated colors, high contrast colors, or even just the shade of the color can be unsettling for users.
-- It’s best to avoid high concentrations of these types of colors.
-
-**Typography should be easy to read and scalable**
-
-- Font sizes should be responsive and the design should allow for users to zoom without causing readability issues.
-- The font itself should be easy to read. Decorative fonts, small font sizes, italicized text, and all uppercase text are harder to read.
-- Larger text, shorter line lengths, taller line heights and increased letter spacing improves readability.
-
 **Forms/controls**
 
 Focus states should easily indicate what control or form element is active
@@ -102,14 +80,6 @@ Error messages should be visible and specific
 - Use multiple cues like color, icons, bold font weight, heavy border or outline, and helpful text to make sure users don’t overlook this critical information.
 - A common mistake is relying solely on the user of “red” to communicate error states.
 
-**Animation and effects**
-
-Understand why you are using animation and effects and how to design them safely
-
-- Fast flashing effects (defined as flashing more than three times a second) or high-intensity effects and patterns can cause seizures, known as ‘photosensitive epilepsy.’
-- Parallax or motion effects, can cause some users to feel dizzy or experience vertigo due to vestibular sensitivity.
-- Constant animations or motion can also be distracting to users, especially to users who have difficulty concentrating
-- Provide controls or options to stop, pause, hide, or change the frequency of any animations or effects
 
 **Layout**
 
@@ -121,18 +91,6 @@ Visual layout and structural (HTML) layout should match
 Layouts should be scalable
 
 - Layouts should be flexible enough to allow users to zoom up to 400% without breaking the layout causing navigation and readability issues.
-
-**Content/readability**
-
-Content should be concise, clear, and well organized
-
-- Content should be written using plain and simple language
-- Paragraphs should be focused on a single idea
-- Ideal line length should between 45 and 75 characters
-- Breaking up content with headings, lists, or images give mental breaks to readers
-- Use headings to logically group and summarize information
-- Be consistent with placement and labeling
-- Interactive components should have meaningful labels (e.g. buttons, menus, links)
 
 ### Engineering
 
@@ -165,14 +123,6 @@ Content should be concise, clear, and well organized
 - All field elements should be accessible by keyboard
 - Descriptive error messages that are not only defined by color
 - Test how ARIA affects form inputs
-
-**Interactions**
-
-- Avoid timeouts for feature interactions. If you must, then give the option to extend the time.
-- Check that any elements that flash on screen do so at a rate of less than 3 Hz
-
-**Styling**
-- Ensure that the application still makes sense with CSS turned off.
 
 ### Product
 
