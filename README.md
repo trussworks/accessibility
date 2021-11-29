@@ -75,21 +75,6 @@ Don’t use color as the only visual means of conveying information
 - The font itself should be easy to read. Decorative fonts, small font sizes, italicized text, and all uppercase text are harder to read.
 - Larger text, shorter line lengths, taller line heights and increased letter spacing improves readability.
 
-**Images and icons**
-
-Make sure images have proper alt text
-
-- Users that rely on browsers to read content for them rely on alt text to provide meaning to an image.
-- It’s recommended to describe all of the elements that explain what’s happening in the image rather than just providing a simple title.
-- Descriptions should be succinct, it’s recommended to go no longer than two sentences.
-- If the product that you are designing allows users to upload images, you should provide the ability to enter alt text along with the file.
-- If an image is purely decorative, an empty alt tag should be included so that the user is not read alt text that doesn’t enhance usability.
-
-**Images and icons should be easily understandable**
-
-- Avoid using graphics when written content could communicate the same thing.
-- Use icons as helpful visual cues to connect to concepts. Only use icons purposefully and not for decoration. Use familiar icons that people are accustomed to associating with common actions, like a trash can to represent deleting something.
-
 **Forms/controls**
 
 Focus states should easily indicate what control or form element is active
@@ -125,17 +110,6 @@ Understand why you are using animation and effects and how to design them safely
 - Parallax or motion effects, can cause some users to feel dizzy or experience vertigo due to vestibular sensitivity.
 - Constant animations or motion can also be distracting to users, especially to users who have difficulty concentrating
 - Provide controls or options to stop, pause, hide, or change the frequency of any animations or effects
-
-**Audio and video**
-
-Avoid autoplaying videos and audio
-
-- Constantly moving animations and video can be distracting. You should provide controls or options to pause or disable the video or audio.
-
-Provide transcripts or subtitles
-
-- Video should have transcripts or subtitles so people can review the material in the best way that suits their needs
-- Transcripts should include descriptions, not exclusively dialog/narration. This is particularly important for blink folks, who might make use of the transcript to make sure they didn’t miss anything by only taking in auditory information.
 
 **Layout**
 
@@ -176,13 +150,6 @@ Content should be concise, clear, and well organized
 - Ability to skip navigation to access main content
 - Make sure the application never loses focus, it should always be visible while navigating the page.
 - Tab order should be logical, so that navigation makes sense
-
-**Media**
-
-- All images should use an img tag
-- Multimedia should be tagged (captions, audio descriptions, etc)
-- SVGs should be accessible to assistive devices
-- Hide decorative images from assistive devices using an empty alt tag (`alt=""`)
 
 **Links, text, and descriptions**
 
