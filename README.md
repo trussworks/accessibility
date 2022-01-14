@@ -37,36 +37,5 @@ Accessibility needs to be incorporated throughout the entire lifecycle of a proj
 Every role in the project should be aware of the importance of accessibility and have a basic understanding of how they are addressed (even if they only know to look at this guide as a reference first). Accessibility should not be beholden to only one practice to address (e.g. just engineers to fix tags or designers to figure out color and content), but it should be the shared responsibility of everyone on the project. An effective team can work together to make sure that accessibility concerns are met throughout the entire project lifecycle.
 
 
-### Resources
-
-- [Intro to Accessibility OTT, Dec 2019](https://docs.google.com/presentation/d/1Itmkkj2OHX2JuA58aFR7Uj77EDw9Wz0Mt5EgLivK_a4/) 🔒
-- [18F Accessibility Guide](https://accessibility.18f.gov)
-- [Accessibility for teams](https://accessibility.digital.gov/)
-- [Mozilla Accessibility Learn Web Development Documentation](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
-- [7 things every designer needs to know about accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)
-- [Designing for Accessibility and Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
-- [VOX accessibility guidelines](http://accessibility.voxmedia.com/)
-- [plainlanguage.gov](https://www.plainlanguage.gov/)
-
-### Useful tools
-- [AXE browser extension](https://www.deque.com/axe/) - in browser accessibility testing
-- [A11y storybook add-on](https://github.com/storybookjs/storybook/tree/next/addons/a11y) - React accessibility testing in Storybook
-- [Chrome Lighthouse (accessibility report)](https://developers.google.com/web/tools/lighthouse) - Accessibility audit in Chrome DevTools
-- [HTML_CodeSniffer (browser bookmarklet)](https://squizlabs.github.io/HTML_CodeSniffer/) - Accessibility Auditor Bookmarket
-- [Color contrast checker](https://webaim.org/resources/contrastchecker/) - Interactive online color contrast checker for foreground and background ratios
-- [How to allow full keyboard navigation in Mac OS browsers](https://www.a11yproject.com/posts/2017-12-29-macos-browser-keyboard-navigation/) - By default, Apple computers have an operating system (OS) level setting that limits the Tab key to "Text boxes and lists only". This guide shows how to change it.
-
-------
-
-## VoiceOver guide
-
-### How-to use the rotor menu
-- Turn voice over on cmd + F5
-- Open rotor menu ctrl + option + U (you’ll see a panel appear)
-- Use ⬅️ and ➡️ to cycle through the rotor menu
-- Use ⬆️ and ⬇️ to move down that rotor view
-- When you are done you can dismiss the rotor menu by hitting Esc
-- Turn voice over off cmd + F5
-
-[Video demo for the rotor menu](https://trussworks.slack.com/archives/C01BCRE1Q20/p1620842498214400)
-
+### Wiki
+You can use the (wiki)[https://github.com/trussworks/accessibility/wiki] to find tips and recommendations on how to make your website accessible. This covers a range of topics including various form elements, patterns, implementation suggestions with rationale, examples and resources.
