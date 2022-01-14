@@ -38,4 +38,4 @@ Every role in the project should be aware of the importance of accessibility and
 
 
 ### Wiki
-You can use the (wiki)[https://github.com/trussworks/accessibility/wiki] to find tips and recommendations on how to make your website accessible. This covers a range of topics including various form elements, patterns, implementation suggestions with rationale, examples and resources.
+You can use the [wiki](https://github.com/trussworks/accessibility/wiki) to find tips and recommendations on how to make your website accessible. This covers a range of topics including various form elements, patterns, implementation suggestions with rationale, examples and resources.
