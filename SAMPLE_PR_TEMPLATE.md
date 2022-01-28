@@ -56,7 +56,7 @@ Link to Acceptance flow diagram
 - [ ] Checked that all code is adequately covered by tests
 - [ ] Made it clear which comments need to be addressed before this work is merged
 - [ ] Considered marking this as accepted even if there are small changes needed
-- User-facing changes ([detailed instructions)](https://github.com/USDOLEnterprise/ARPAUI/blob/main/docs/a11y-testing-instructions.md):
+- User-facing changes ([detailed instructions)](https://docs.google.com/document/d/1XRgRGeHVaYSHrUMi6dvUaHQYw1bm_MFkrY9q2gv_BW8/):
   - [ ] Checked responsiveness in mobile, tablet, and desktop
   - [ ] Checked keyboard navigability
   - [ ] Tested with [VoiceOver](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts) in Safari
@@ -70,7 +70,7 @@ Link to Acceptance flow diagram
 - [ ] Checked different states (empty, one, some, error)
 - [ ] Checked for landmarks, page heading structure, and links
 - [ ] Tried to break the intended flow
-- a11y checks ([detailed instructions)](https://github.com/USDOLEnterprise/ARPAUI/blob/main/docs/a11y-testing-instructions.md):
+- a11y checks ([detailed instructions)](https://docs.google.com/document/d/1XRgRGeHVaYSHrUMi6dvUaHQYw1bm_MFkrY9q2gv_BW8/):
   - [ ] Checked responsiveness in mobile, tablet, and desktop
   - [ ] Checked keyboard navigability
   - [ ] Tested with [VoiceOver](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts) in Safari
