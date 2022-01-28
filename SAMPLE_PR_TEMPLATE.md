@@ -39,7 +39,7 @@ Link to Acceptance flow diagram
 
 - [ ] Met the acceptance criteria, or will meet them in a subsequent PR
 - [ ] Created/modified automated tests
-- User-facing changes ([detailed instructions)](https://github.com/USDOLEnterprise/ARPAUI/blob/main/docs/a11y-testing-instructions.md):
+- User-facing changes ([detailed instructions)](https://docs.google.com/document/d/1XRgRGeHVaYSHrUMi6dvUaHQYw1bm_MFkrY9q2gv_BW8/):
   - [ ] Checked responsiveness in mobile, tablet, and desktop
   - [ ] Checked keyboard navigability
   - [ ] Tested with [VoiceOver](https://dequeuniversity.com/screenreaders/voiceover-keyboard-shortcuts) in Safari
