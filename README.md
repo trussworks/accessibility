@@ -41,7 +41,7 @@ Every role in the project should be aware of the importance of accessibility and
 For accessibility to be integrated into our agile, iterative practices, teams need to establish agreed-upon processes.
 
 - [Drafting an Accessibility Plan](https://docs.google.com/document/d/1TGpUgiw18sGAoULD-2HbXwXweWjNT1DvcQxuW9Vm0XQ/edit#heading=h.mw9un9haff9p)
-- Sample Github PR template with checklists for accessibility QA
+- [Sample Github PR template](https://github.com/trussworks/accessibility/blob/master/SAMPLE_PR_TEMPLATE.md) with checklists for accessibility QA
 - [Sample breakdown of accessibilty testing process](https://docs.google.com/document/d/1XRgRGeHVaYSHrUMi6dvUaHQYw1bm_MFkrY9q2gv_BW8/edit#heading=h.nfibbtge3ay2) (linked in PR template)
 - Sample diagram of a cross-practice development acceptance flow
 
