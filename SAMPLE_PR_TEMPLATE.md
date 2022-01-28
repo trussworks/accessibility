@@ -33,7 +33,7 @@ Link to Acceptance flow diagram
     ```
 --->
 
-## [Code Review](https://github.com/USDOLEnterprise/ARPAUI/blob/main/docs/team-norms.md#reviewing-prs) Verification Steps
+## Code Review (*link to team code review norms) Verification Steps
 
 ### As the original developer, I have
 
