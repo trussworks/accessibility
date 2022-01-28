@@ -36,6 +36,14 @@ Accessibility needs to be incorporated throughout the entire lifecycle of a proj
 
 Every role in the project should be aware of the importance of accessibility and have a basic understanding of how they are addressed (even if they only know to look at this guide as a reference first). Accessibility should not be beholden to only one practice to address (e.g. just engineers to fix tags or designers to figure out color and content), but it should be the shared responsibility of everyone on the project. An effective team can work together to make sure that accessibility concerns are met throughout the entire project lifecycle.
 
+### Processes for teams
+
+For accessibility to be integrated into our agile, iterative practices, teams need to establish agreed-upon processes.
+
+- [Drafting an Accessibility Plan](https://docs.google.com/document/d/1TGpUgiw18sGAoULD-2HbXwXweWjNT1DvcQxuW9Vm0XQ/edit#heading=h.mw9un9haff9p)
+- Sample Github PR template with checklists for accessibility QA
+- [Sample breakdown of accessibilty testing process](https://docs.google.com/document/d/1XRgRGeHVaYSHrUMi6dvUaHQYw1bm_MFkrY9q2gv_BW8/edit#heading=h.nfibbtge3ay2) (linked in PR template)
+- Sample diagram of a cross-practice development acceptance flow
 
 ### Wiki
 You can use the [wiki](https://github.com/trussworks/accessibility/wiki) to find tips and recommendations on how to make your website accessible. This covers a range of topics including various form elements, patterns, implementation suggestions with rationale, examples and resources.
