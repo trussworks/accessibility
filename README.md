@@ -44,6 +44,7 @@ For accessibility to be integrated into our agile, iterative practices, teams ne
 - [Sample Github PR template](https://github.com/trussworks/accessibility/blob/master/SAMPLE_PR_TEMPLATE.md) with checklists for accessibility QA
 - [Sample breakdown of accessibilty testing process](https://github.com/trussworks/accessibility/blob/master/sample_a11y_testing_process.md) (linked in PR template)
 - [Sample diagram of a cross-practice development acceptance flow](https://github.com/trussworks/accessibility/blob/master/Development%20Acceptance%20Flow-Page-1.drawio%20(1).png)
+- How to access screen readers through AssistivLabs and JAWS: [How to JAWS like a Trussel](https://docs.google.com/document/d/1YGVMAbQgBVYaPhTgzJeMer1iMpBsOSVCshyyu-vmGi4/edit#heading=h.4ufpsgyrhe3p)
 
 ### Wiki
 You can use the [wiki](https://github.com/trussworks/accessibility/wiki) to find tips and recommendations on how to make your website accessible. This covers a range of topics including various form elements, patterns, implementation suggestions with rationale, examples and resources.
