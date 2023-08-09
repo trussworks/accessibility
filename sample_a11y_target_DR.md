@@ -17,7 +17,7 @@ informed: {anyone impacted by this DR}
 
 ## Context and Problem Statement
 
-In supporting a critical task for all U.S. residents, Direct File should be accessible. This decision record sets a clear target for this phase of development to meet those accessibility needs, and we expect to exceed that target when feasible.
+In supporting a critical task for all U.S. residents, our product should be accessible. This decision record sets a clear target for this phase of development to meet those accessibility needs, and we expect to exceed that target when feasible.
 
 The U.S. describes its accessiblity requirements in [Section 508](https://www.section508.gov/) of the Rehabilitation Act. [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/) provides the same for the internet at large with three levels of compliance (A, AA, AAA), and it has increased in minor versions (2.0, 2.1, 2.2) over the last 15 years. 508 and WCAG have a [very large overlap](https://www.access-board.gov/ict/#E207.2), and all non-overlapping features unique to 508 are either irrelevant to this project (e.g. manual operation and hardware) or out of this repo's scope (e.g. support channels). See the note in "More Information" below for further information.
 
@@ -74,7 +74,7 @@ This decision is confirmed by the [Agency] 508 Program Office and by our Contrac
 * Good, because it establishes and exceeds 508 compliance
 * Good, because it is easy to remember the level expected of all elements (i.e. "what needs level A vs AA?")
 * Good, because it challenges us to maximize WCAG at level AAA
-* Good, because it sets Direct File up with the latest a11y guidance for years to come
+* Good, because it sets us up with the latest a11y guidance for years to come
 * Good, because it doesn't require any more work than WCAG 2.1 AA
 * Neutral, because it may require slighly more work than the bare minimum
 * Neutral, because it is not yet fully published as of this writing and may have very minor [changes](https://www.w3.org/WAI/standards-guidelines/wcag/new-in-22/#changes-to-the-22-draft) between now and then.
