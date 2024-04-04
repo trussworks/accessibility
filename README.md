@@ -40,6 +40,7 @@ Every role in the project should be aware of the importance of accessibility and
 
 For accessibility to be integrated into our agile, iterative practices, teams need to establish agreed-upon processes.
 
+- [VPAT spreadsheeet with automated WCAG 2.0 and disability impact reports](https://github.com/trussworks/accessibility/wiki/VPAT-spreadsheet-with-automated-WCAG-2.0-and-disability-impact-report)
 - [Truss Accessibility Scorecard](https://github.com/trussworks/accessibility/wiki/Accessibility-Scorecard)
 - [Drafting an Accessibility Plan](https://docs.google.com/document/d/1TGpUgiw18sGAoULD-2HbXwXweWjNT1DvcQxuW9Vm0XQ/edit#heading=h.mw9un9haff9p)
 - [Sample Github PR template](https://github.com/trussworks/accessibility/blob/master/SAMPLE_PR_TEMPLATE.md) with checklists for accessibility QA
